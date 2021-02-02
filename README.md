@@ -128,7 +128,8 @@
             <ul>
                 <li>Sql dork list by m0k1</li>
                 <li>Xss dork list by google</li>
-                <li>Xss payloads by payloadbox</li>                
+                <li>Xss payloads by payloadbox</li>
+            </ul>
         <h2>
             License
         </h2>
