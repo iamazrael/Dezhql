@@ -114,6 +114,14 @@
                 </ul>
             </li><br></br>
         </ol>
+        <h2>Tested on</h2>
+        <ul>
+            <li>
+                Kali linux
+            </li>
+            <li>
+                Ubunto
+            </li>
         <h2>
             Rules
             <ul>
