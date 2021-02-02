@@ -124,6 +124,7 @@
             </li>
         <h2>
             Rules
+        </h2>
             <ul>
                 <li>Sql dork list by m0k1</li>
                 <li>Xss dork list by google</li>
