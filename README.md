@@ -115,6 +115,12 @@
             </li><br></br>
         </ol>
         <h2>
+            Rules
+            <ul>
+                <li>Sql dork list by m0k1</li>
+                <li>Xss dork list by google</li>
+                <li>Xss payloads by payloadbox</li>                
+        <h2>
             License
         </h2>
         <ul>
