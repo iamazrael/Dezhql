@@ -122,6 +122,7 @@
             <li>
                 Ubunto
             </li>
+        </ul>
         <h2>
             Rules
         </h2>
