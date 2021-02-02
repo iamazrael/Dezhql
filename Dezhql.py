@@ -75,7 +75,7 @@ script_help = color.cyan+'''
     █                   vulnerable column of website  █
     █        find-admin-panel : finding admin panel   █
     █        change-my-ip : change your ip            █
-    █        what-is-my-ip : showing yout public ip   █
+    █        what-is-my-ip : showing your public ip   █
     █        xss-scan : scan website and show         █
     █                   xss bugs                      █
     █        spam-to-sms : faster spam sms            █
