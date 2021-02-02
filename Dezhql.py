@@ -205,7 +205,7 @@ sql_commands = color.cyan+'''
 
 rfi_commands = color.cyan+'''
     ┌═════════════════════════════════════════════════┐
-    █           rfi commands : random-rfi-dork        █
+    █           rfi commands : random-rfi-dork        █ 
     █                                                 █
     └═════════════════════════════════════════════════┘
 '''
