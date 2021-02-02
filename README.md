@@ -5,6 +5,9 @@
         <meta charset="utf-8">
     </head>
     <body>
+        <a href="https://t.me/iam_azrael">
+            <img src="https://img.shields.io/badge/Azrael-telegram-blue">
+        </a>
         <h1>
             Preview
         </h1>
