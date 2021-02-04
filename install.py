@@ -48,3 +48,6 @@ def install():
             
             if command_ == 'exit':
                 sys.exit()
+
+
+install()
